@@ -4,6 +4,11 @@ The `VirtualPath` library normalises paths and
 prevents directory traversal attacks
 without querying a file system.
 
+[![Latest Stable Version](https://poser.pugx.org/rayne/virtual-path/v/stable)](https://packagist.org/packages/rayne/virtual-path)
+[![Code Coverage](https://scrutinizer-ci.com/g/rayne/virtual-path/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/rayne/virtual-path/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/rayne/virtual-path/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/rayne/virtual-path/?branch=master)
+[![License](https://poser.pugx.org/rayne/virtual-path/license)](https://packagist.org/packages/rayne/virtual-path)
+
 ## Contents
 
 * [Installation](#installation)
