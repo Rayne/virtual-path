@@ -148,7 +148,7 @@ Using a pure virtual normalised path has different benefits:
 * No complex comparisons are required to limit directory traversals
   to a specific directory and its children
 
-* Only `.`, `..`, `\\` (normalised to `/`) and `/` are interpreted for path normalisation
+* Only `.`, `..`, `\` (normalised to `/`) and `/` are interpreted for path normalisation
 
 * No unexpected and information leaking `~` expansions as seen in other libraries
 
