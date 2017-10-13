@@ -172,9 +172,6 @@ class VirtualPathTest extends TestCase
     }
 
     /**
-     * This test has no `[…]_objectPath` equivalent as returning non-strings
-     * by magic method `__toString()` would emit an `E_RECOVERABLE_ERROR` error.
-     *
      * @dataProvider provideInvalidFormats
      * @param mixed $untrustedFormat
      */
