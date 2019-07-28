@@ -9,6 +9,10 @@ without querying a file system.
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/rayne/virtual-path/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/rayne/virtual-path/?branch=master)
 [![License](https://poser.pugx.org/rayne/virtual-path/license)](https://packagist.org/packages/rayne/virtual-path)
 
+<p align="center">
+    <img src="assets/virtual-path.png" alt="" width="320" />
+</p>
+
 ## Contents
 
 * [Installation](#installation)
